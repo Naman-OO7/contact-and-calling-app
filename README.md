@@ -1,4 +1,4 @@
 # contact-and-calling-app
-This Repository contains two APPS 
+This Repository contains 1 APP 
 1 --> CONTACT APP
-2 --> CALLING APP
+
